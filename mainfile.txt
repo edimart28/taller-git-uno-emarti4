@@ -1,0 +1,5 @@
+
+
+1. ingresar url
+2. registrar usuario y contraseña
+
