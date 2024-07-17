@@ -1,0 +1,6 @@
+
+
+1. abrir navegador
+2. ingresar a pagina web
+3. ingresar con usuario y contraseña
+
