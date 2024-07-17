@@ -1,0 +1,7 @@
+
+
+1. seleccionar producto
+2. agregar al carrito
+3. ingresar a carrito
+4. realizar compra
+
